@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="au.edu.harvest.lms" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Harvest Moodle App</name>
+  <name>Harvest Moodle Mobile</name>
   <description>Harvest Bible College Official Moodle Mobile Application</description>
   <author href="http://www.harvest.edu.au" email="ictsupport@harvest.edu.au">ICT Support</author>
   <content src="index.html"/>
